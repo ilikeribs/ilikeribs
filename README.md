@@ -11,11 +11,9 @@ Learning every day, practising every other night!
 
 #### Technologies I use
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,sqlite,docker,fastapi,vscode,github,anaconda,arduino,gcp, />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,sqlite,docker,fastapi,gcp,vscode,github,anaconda,arduino)](https://skillicons.dev)
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ilkeribs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vytas-beinoravicius-75848450//)  
